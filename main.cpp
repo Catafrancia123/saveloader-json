@@ -14,6 +14,6 @@ int main() {
 
 /* how to commit: 
     git add main.cpp saveloader.hpp
-    git commit "commit description"
+    git commit -m "commit description"
     git push
 */
