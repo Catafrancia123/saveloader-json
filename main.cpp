@@ -11,3 +11,9 @@ int main() {
     cout << save.load("example.json", "valorant") << "\n";
     return 0;
 }
+
+/* how to commit: 
+    git add main.cpp saveloader.hpp
+    git commit "commit description"
+    git push
+*/
